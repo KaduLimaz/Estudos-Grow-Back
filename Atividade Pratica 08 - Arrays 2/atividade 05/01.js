@@ -2,8 +2,7 @@
 // inteiro e retorne verdadeiro se o número faz parte do vetor ou falso
 // se não faz parte.
 
-// let vetor1 = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
-// let n1 = 5;
+
 
 function verdadeiro(vetor1, n1) {
   
