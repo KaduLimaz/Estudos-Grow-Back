@@ -74,6 +74,6 @@ empregadosMenorIgual2500.forEach((pessoa) => {
   );
 });
 
-// Exibir o cadastro completo
+// Exibir as pessoas cadastradas
 console.log("Cadastro de pessoas:");
 console.log(cadastro);
